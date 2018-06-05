@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchroniczneInterfejsyWWW", "AsynchroniczneInterfejsyWWW\AsynchroniczneInterfejsyWWW.csproj", "{DA1B38BE-B597-4221-BA86-D8C62E8CD68B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1B38BE-B597-4221-BA86-D8C62E8CD68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1B38BE-B597-4221-BA86-D8C62E8CD68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1B38BE-B597-4221-BA86-D8C62E8CD68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1B38BE-B597-4221-BA86-D8C62E8CD68B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF5566B4-B232-4929-A045-10B3E002CE5C}
+	EndGlobalSection
+EndGlobal
